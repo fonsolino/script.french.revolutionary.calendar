@@ -8,6 +8,12 @@ The republican calendar was suppressed by Napoleon I with a decree of 22 Fructid
 For more information:
 https://en.wikipedia.org/wiki/French_Republican_calendar
 
+Where possible the images of the plants are taken from the book by Castore Durante "Herbario novo" published in Rome in 1585
+https://archive.org/details/herbarionuouo00dura
+
+Important notice:
+this initial release has images of the days from 15 to 19 Pluviose only
+
 # Add-on per il Calendario Rivoluzionario Francese per Kodi™
 La data e il nome del giorno nel Calendario Rivoluzionario Francese
 
@@ -17,3 +23,9 @@ Il calendario repubblicano fu soppresso da Napoleone I con decreto del 22 frutti
 
 Per maggiori informazioni:
 https://it.wikipedia.org/wiki/Calendario_rivoluzionario_francese
+
+Dove possibile le immagini delle piante sono prese dal libro di Castore Durante "Herbario novo" pubblicato a Roma nel 1585 
+https://archive.org/details/herbarionuouo00dura
+
+Avviso importante:
+questa rilascio iniziale ha le immagini dei giorni solo dal 15 al 19 Piovoso
