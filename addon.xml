@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.french.revolutionary.calendar" name="Calendario Rivoluzionario Francese" version="0.2.31" provider-name="Fonsolino">
+    <extension point="xbmc.python.script" library="default.py" />
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.requests" version="2.26.0"/>
+    </requires>
+	<extension point="xbmc.addon.metadata">
+        <summary lang="en">The date and name of the day in the French Revolutionary Calendar</summary>
+        <summary lang="it">La data e il nome del giorno nel Calendario Rivoluzionario Francese</summary>
+        
+        <description lang="en">An addon to display the date and name of the day in the French revolutionary calendar with an image associated with the name</description>
+        <description lang="it">Un addon per visualizzare la data  e il nome del giorno nel calendario rivoluzionario francese con un'immagine associata al nome</description>
+        
+        <platform>all</platform>
+        
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot01.jpg</screenshot>
+        </assets>
+    </extension>
+</addon>
